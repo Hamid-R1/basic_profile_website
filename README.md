@@ -1,2 +1,2 @@
 # basic_profile_website
-HTML CSS JS Basic profile Website
+HTML CSS JS based Basic Profile Website
